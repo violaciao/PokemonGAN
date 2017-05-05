@@ -1,8 +1,8 @@
-# PokemonGAN
+## PokemonGAN
 
-Condition GAN Model: generate Pokemon images based on Pokemon types.
+ > Condition GAN Model: generate Pokemon images based on Pokemon types.
 
-[Pokemon Generation]
+**Pokemon Generation**
 
-<img src="https://github.com/violaciao/PokemonGAN/blob/master/Image_gen.png?raw=true" width="150">
+<img src="https://github.com/violaciao/PokemonGAN/blob/master/Image_gen.png?raw=true" width="280">
 
